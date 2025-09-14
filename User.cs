@@ -9,7 +9,7 @@ namespace CRUDproject
 {
     internal class User
     {
-        private static int nextId =0;
+        private static int nextId =1;
         private readonly int id;
         private string name;
         private string email;
